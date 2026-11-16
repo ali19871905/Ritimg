@@ -3,20 +3,8 @@
 **Ritim & RITIM O**
 
 ### 1. Ritim 4k
-Python ile geliştirilen ritim oyunu. Müzik ve zamanlama temelli oynanışa odaklanır.
 
 ### 2. RITIM O
-Fare kontrollü, osu! tarzından esinlenen ritim oyunu.
-
-Özellikler:
-- 🎯 Fareyle hedeflere tıklama.
-- 🎵 Müzik dosyası analizi.
-- 📊 Puan ve Combo sistemi.
-- ❤️ Can sistemi.
-- 🔊 Doğru ve yanlış tıklama sesleri.
-- 👤 Oyuncu profili.
-- 🎼 BPM bilgisi.
-- 🖥️ Yeniden boyutlandırılabilir oyun ekranı.
 
 ## 🛠️ Technologies
 
@@ -55,7 +43,7 @@ pip install pygame numpy librosa
 Projelerin her biri kendi klasöründen çalıştırılabilir:
 
 ```bash
-python main.py
+python ritim4k.py
 ```
 
 RITIM O için:
